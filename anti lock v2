@@ -1,5 +1,5 @@
 local Toggled = true
-local KeyCode = 'z'
+local KeyCode = '*'
 local hip = 2.80
 local val = -35
 
